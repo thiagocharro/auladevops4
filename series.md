@@ -1,3 +1,3 @@
-3%
-Um maluco no pedaço
+3%,
+Um maluco no pedaço,
 olhos que condenam
